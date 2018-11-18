@@ -1,4 +1,6 @@
 # hello-world
-my first repository
+This is my first repository.
+
 I am eager to learn code!
-it's a cold Sunday night, and soon it will start snowing
+
+It's a cold Sunday night, and soon it will start snowing
